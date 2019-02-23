@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Tcheburatz0/Travis_3.svg?branch=master)](https://travis-ci.org/Tcheburatz0/Travis_3)
 ## AssertJ examples
 
 AssertJ examples is divided in two : assertions-examples (core, guava and joda assertions) and AssertJ swing modules.
